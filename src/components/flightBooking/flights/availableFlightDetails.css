@@ -1,0 +1,22 @@
+.availableFlightDetails {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+
+.availableFlightDetails_details {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+
+
+.availableFlightDetails_details_cityName {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.availableFlightDetails_details_count {
+    font-size: 10px;
+}

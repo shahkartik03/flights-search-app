@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ed62f8f-c2bf-4773-8d85-0d37951dadd1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YnQCygsPpHjzejwysUbwCUtADx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../flight-search-app" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\kartik\though-work\flights-search-app\src\components\flightBooking\flights" />
+      <recent name="D:\kartik\though-work\flights-search-app\src\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\kartik\though-work\flights-search-app\src\components" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ed62f8f-c2bf-4773-8d85-0d37951dadd1" name="Default Changelist" comment="" />
+      <created>1583575754280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583575754280</updated>
+      <workItem from="1583575758469" duration="18208000" />
+      <workItem from="1583604907478" duration="12675000" />
+      <workItem from="1583729040944" duration="3559000" />
+      <workItem from="1583746587837" duration="325000" />
+      <workItem from="1583747006534" duration="4106000" />
+      <workItem from="1583756360167" duration="759000" />
+      <workItem from="1583757284640" duration="3975000" />
+      <workItem from="1583762330883" duration="8352000" />
+      <workItem from="1583784611216" duration="36000" />
+      <workItem from="1583784729667" duration="3414000" />
+      <workItem from="1583867887887" duration="4511000" />
+      <workItem from="1583872947500" duration="17736000" />
+      <workItem from="1583942397655" duration="3636000" />
+      <workItem from="1584344866497" duration="1242000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1189" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583579784162">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1189" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1583579784162" />
+    <state x="-1230" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583607113949">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1230" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1583607113949" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1584345152026">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1584345152026" />
+    <state x="539" y="276" key="Github.ShareDialog" timestamp="1584345264179">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="539" y="276" key="Github.ShareDialog/0.0.1366.768@0.0.1366.768" timestamp="1584345264179" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1584345098762">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1584345098762" />
+    <state x="-1828" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1583781823616">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1828" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.768/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1583781823616" />
+    <state x="466" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1584344877745">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="-1265" y="362" key="com.intellij.ide.util.TipDialog/0.0.1366.768/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1583872948646" />
+    <state x="466" y="257" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1584344877745" />
+    <state x="467" y="98" width="606" height="572" key="find.popup" timestamp="1583945259049">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="-1263" y="138" width="1131" height="804" key="find.popup/0.0.1366.768/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1583890845054" />
+    <state x="467" y="98" width="606" height="572" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1583945259049" />
+    <state x="-1304" y="245" key="run.anything.popup" timestamp="1583875741746">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1304" y="245" key="run.anything.popup/0.0.1366.768/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1583875741746" />
+    <state x="443" y="167" width="672" height="483" key="search.everywhere.popup" timestamp="1583946291731">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1366.768/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1583888498696" />
+    <state x="443" y="167" width="672" height="483" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1583946291731" />
+  </component>
+</project>

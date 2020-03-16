@@ -1,0 +1,14 @@
+.optionSelect {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.optionSelect_Select {
+    width: 63%;
+}
+
+.optionSelect_label {
+    color: gray;
+}

@@ -1,0 +1,14 @@
+.flightOptions {
+    display: flex;
+    flex-direction: column;
+}
+
+.flightOptions_singleView {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 0 10px;
+}

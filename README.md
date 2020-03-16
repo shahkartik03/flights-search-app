@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Introduction
+This Application is for Quick search and filter flights. Application makes use of concepts like:
+
+<ul>
+<li>React-Redux</li>
+<li>React Hooks</li>
+<li>React-Redux Hooks</li>
+<li>Material UI</li>
+<li>selector</li>
+</ul>
+
 ## Available Scripts
 
 In the project directory, you can run:

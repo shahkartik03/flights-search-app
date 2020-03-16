@@ -1,0 +1,27 @@
+.booking {
+    flex: 1 0;
+    background: #ffffff;
+    border-radius: 4px;
+    margin: 0 10px;
+    padding: 10px;
+}
+
+.booking_Details {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin: auto;
+}
+
+.booking_DateSelection {
+    display: flex;
+    align-items: center;
+}
+
+.booking_Label {
+    color: grey;
+}
+
+.booking_searchButton {
+    margin: 20px 0;
+}

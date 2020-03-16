@@ -1,0 +1,62 @@
+.flightItinerary {
+    display: flex;
+    flex-direction: row;
+    margin: 5px 0;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.flightItinerary_Price {
+    font-size: 16px;
+    color: firebrick;
+    margin-right: 32px;
+}
+
+.flightItinerary_MultiAirline_details {
+    background-color: #eeeeee;
+    border: 1px solid black;
+}
+
+.attribute {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    margin: 0 30px;
+}
+
+.attribute_label {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.attribute_value {
+    font-size: 12px;
+    color: gray;
+}
+
+.attribute_details {
+    font-size: 9px;
+    color: cornflowerblue;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.attribute_nonStop {
+    font-size: 12px;
+    color: gray;
+    margin: 0 22px 0 0;
+}
+
+h2 {
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px dotted #000;
+    line-height: 2px;
+    margin: 10px 0 20px;
+}
+
+h2 span {
+    background:#fff;
+    padding:0 10px;
+    font-size: 12px;
+}
